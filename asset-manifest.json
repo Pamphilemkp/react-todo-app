@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pamphilemkp/reeact-todo-app/static/css/main.9208be60.css",
+    "main.js": "/Pamphilemkp/reeact-todo-app/static/js/main.0253edb7.js",
+    "index.html": "/Pamphilemkp/reeact-todo-app/index.html",
+    "main.9208be60.css.map": "/Pamphilemkp/reeact-todo-app/static/css/main.9208be60.css.map",
+    "main.0253edb7.js.map": "/Pamphilemkp/reeact-todo-app/static/js/main.0253edb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9208be60.css",
+    "static/js/main.0253edb7.js"
+  ]
+}
